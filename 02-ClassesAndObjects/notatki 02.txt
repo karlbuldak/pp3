@@ -1,0 +1,12 @@
+Then list the main features of the following programming paradigms (you can search the Internet for some details):
+a.     Imperative programming = sekwencja instrukcji zmieniających stan programu, taki „tryb rozkazujący dla komputera”
+ 
+b.     Procedural programming = dzielenie kodu na procedury, czyli fragmenty wykonujące ściśle określone operacje, procedury nie powinny korzystać ze zmiennych globalnych, lecz pobierać i przekazywać wszystkie dane jako parametry wywołania
+ 
+c.     Structured programming = paradygmat programowania opierający się na podziale kodu źródłowego programu na procedury i hierarchicznie ułożone bloki z wykorzystaniem struktur kontrolnych w postaci instrukcji wyboru i pętli
+2.     Familiarise yourself with primitive data types available in Java. How is the type of a variable determined in Java.
+Jest ich osiem: int, byte, short, long, float, double, boolean i char
+3.     Familiarise yourself with the basic operators available in Java.
++, -, *, /, %, ++, -- (increment, decrement)
+4.     Familiarise yourself with the CamelCase – a naming convention for variables, constants, methods  and classes in Java.
+camelCase, PascalCase, snake_case, kebab-case
