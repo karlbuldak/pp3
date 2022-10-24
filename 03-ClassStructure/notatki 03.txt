@@ -1,0 +1,22 @@
+1. A static method in Java is a method that is part of a class rather than an instance of that class. Every instance of a class has access to the method. Static methods have access to class variables (static variables) without using the class's object (instance). Only static data may be accessed by a static method.
+
+2. Static fields and static constants enable sharing vakues by belonging to the class and not to the actual objects.
+
+3. main() function, The body of the main method is all the code between the first { and the last }.
+
+4. 
+type var-name[];
+przyklady:
+byte byteArray[];
+short shortsArray[];
+boolean booleanArray[];
+long longArray[];
+float floatArray[];
+double doubleArray[];
+char charArray[];
+
+5. while (expression) { statements } 
+   do { statements } while (expressions)
+   for (initialization; termination; increment) { statements }
+   for (int i=1; i<10; i++) {System.out.println("")}
+   for (int item : numbers) {System.out.println("")}

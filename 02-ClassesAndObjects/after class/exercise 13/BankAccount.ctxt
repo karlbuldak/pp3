@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment1.params=kwota
+comment1.target=void\ wplacPieniadze(int)
+comment2.params=
+comment2.target=void\ resetujHaslo()
+comment3.params=
+comment3.target=void\ pokazInfo()
+numComments=4
