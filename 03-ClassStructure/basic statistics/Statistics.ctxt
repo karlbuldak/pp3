@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Statistics
+comment1.params=start\ end
+comment1.target=int\ NumberOfItems(int,\ int)
+comment2.params=start\ end
+comment2.target=int\ SumOfNumbers(int,\ int)
+comment3.params=start\ end
+comment3.target=double\ MeanOfNumbers(int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

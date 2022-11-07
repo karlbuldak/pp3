@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SurfaceArea
+comment1.params=promien
+comment1.target=double\ poleKola(double)
+comment2.params=bokProstokataA\ bokProstokataB
+comment2.target=double\ poleProstokata(double,\ double)
+comment3.params=podstawaTrojkata\ wysokoscTrojkata
+comment3.target=double\ poleTrojkata(double,\ double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
