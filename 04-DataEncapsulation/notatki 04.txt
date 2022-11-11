@@ -1,10 +1,15 @@
 1. Encapsulation in Java refers to integrating data (variables) and code (methods) into a single unit. In encapsulation, a class's variables are hidden from other classes and can only be accessed by the methods of the class in which they are found.
 
-Encapsulation w Javie to integrowanie zmiennych i metod w jedną całość. W Encapsulation, zmienne klasy sa schowane od innych klas i są dostępne tylko przez metody klasy w której się znajdują.
+Encapsulation w Javie to integrowanie zmiennych i metod w jedną całość.
+ W Encapsulation, zmienne klasy sa schowane od innych klas i są dostępne tylko przez metody klasy w której się znajdują.
 
 2.      1) Private-The private access modifier is accessible only within the class.
-	2) Default- If you don't use any modifier, it is treated as default by default. The default modifier is accessible only within package. It cannot be accessed from outside the package. It provides more accessibility than private. But, it is more restrictive than protected, and public.
-	3) Protected- The protected access modifier is accessible within package and outside the package but through inheritance only. The protected access modifier can be applied on the data member, method and constructor. It can't be applied on the class. It provides more accessibility than the default modifer.
+	2) Default- If you don't use any modifier, it is treated as default by default. 
+The default modifier is accessible only within package. It cannot be accessed from outside the package. 
+It provides more accessibility than private. But, it is more restrictive than protected, and public.
+	3) Protected- The protected access modifier is accessible within package and outside the package but through inheritance only. 
+The protected access modifier can be applied on the data member, method and constructor. It can't be applied on the class. 
+It provides more accessibility than the default modifer.
 	4) Public- The public access modifier is accessible everywhere. It has the widest scope among all other modifiers.
 
 3. getter- metoda ktora zwraca wartosc zmiennej
