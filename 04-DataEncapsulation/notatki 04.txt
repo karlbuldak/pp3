@@ -8,4 +8,4 @@ Encapsulation w Javie to integrowanie zmiennych i metod w jedną całość. W En
 	4) Public- The public access modifier is accessible everywhere. It has the widest scope among all other modifiers.
 
 3. getter- metoda ktora zwraca wartosc zmiennej
-setter- metoda ktora ustawia wartosc zmiennej
+setter- metoda ktora 	ustawia wartosc zmiennej
