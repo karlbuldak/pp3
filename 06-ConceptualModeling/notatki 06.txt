@@ -1,0 +1,7 @@
+UML- Unified Modeling Language- język pół-formalny wykorzystywany do modelowania różnego rodzaju systemów
+
+statyczne i dynamiczne
+
+sketches, reverse engineering, creating detailed blueprint
+
+Diagram klas – statyczny diagram strukturalny w UML, przedstawiający strukturę systemu w modelach obiektowych przez ilustrację struktury klas i zależności między nimi.
