@@ -1,4 +1,4 @@
 1) Association- relacja między dwoma osobnymi klasami ustanowiona przez obiekty. Może być 1 do 1, 1 do wielu, wiele do wielu.
    Aggregation- gdy obiekt A zawiera odwolanie sie do obiektu B, uzywana do ponownego uzycia napisanego juz kodu
-   Composition- gdy istnieje silna relacja pomiedzy dwoma klasami, jedna klasa nie moze istnieć bez drugiej klasy, np. czlowiek i serce
+   Composition- gdy istnieje silna relacja pomiedzy dwoma klasami, jeden obiekt nie moze istnieć bez drugiego obiektu, np. czlowiek i serce
 2) Multiplicity- wielość/wielokrotność- informuje o tym jak wiele instancji obiektow jest polaczone z obiektem  
