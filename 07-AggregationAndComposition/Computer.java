@@ -12,14 +12,15 @@ public class Computer {
         return processor.sumujLiczby(l1,l2);
     }
 
-    public Computer(String systemOperacyjny, String kolorObudowy, boolean isOn){
-        Processor p = new Processor("Intel i3", 2.5, 8, "a23b");
+    public Computer(Processor processor, String systemOperacyjny, String kolorObudowy, boolean isOn){
+        this.processor=processor;
         this.kolorObudowy = kolorObudowy;
-        this.isOn = isOn
+        this.isOn = isOn;
     }
 
     public static void main(String[] args) {
-        Computer c = new Computer("windows", "żółty", false)
-        c = null;
+        Processor p = new Processor(null, 0, 0, null);
+        Computer c = new Computer(p,"windows", "żółty", false);
+        
     }
 }
