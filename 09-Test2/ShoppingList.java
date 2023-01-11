@@ -26,7 +26,7 @@ public class ShoppingList {
     }
     public static void main(String[] args) {
         ShoppingList sl = new ShoppingList();
-        Product p1 = new Product("makaron", 12);
+        Product p1 = new Product("makaron", 0);
         Product p2 = new Product("makaron", 10);
         sl.add(p1);
         sl.add(p2);

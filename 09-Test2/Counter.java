@@ -1,6 +1,6 @@
 // create class Counter in a separate file
 public class Counter {
-    protected int counter;
+    private int counter;
 
     Counter(int c) {
         counter = c;
